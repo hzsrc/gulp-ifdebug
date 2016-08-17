@@ -1,0 +1,25 @@
+{
+  "name": "gulp-ifdebug",
+  "version": "1.0.5",
+  "description": "A conditional compling plugin for gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 1"
+  },
+  "dependencies": {
+    "through2": "*"
+  },
+  "keywords": [
+    "gulp",
+    "ifdebug",
+    "conditional",
+    "compile"
+  ],
+  "author": {
+    "name": "James.Huang",
+    "email": "hz932@qq.com",
+    "url": "http://www.hz300.com/gulp-ifdebug/"
+  },
+  "license": "MIT",
+  "readme": "readme.md"
+}
