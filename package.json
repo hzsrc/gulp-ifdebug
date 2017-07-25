@@ -1,7 +1,7 @@
 {
   "name": "gulp-ifdebug",
-  "version": "1.0.5",
-  "description": "A conditional compling plugin for gulp",
+  "version": "1.0.6",
+  "description": "A js conditional compling plugin for gulp. 一个gulp下的js条件编译工具。",
   "main": "index.js",
   "scripts": {
     "test": "echo \"No test specified\" && exit 1"

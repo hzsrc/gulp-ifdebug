@@ -18,7 +18,7 @@ module.exports = function (options) {
             if (delta > 0) {
                 var fn = file.history[0] || '';
                 fn = path.basename(fn);
-                console.log('gulp-ifdebug:\t' + fn + '\t' + delta + ' bytes was droped');
+                console.log('gulp-ifdebug:\t' + fn + '\t' + delta + ' bytes droped');
             }
         }
 
